@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/black_stained_glass"
+    },
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model":"item/invcover"},
+        {"predicate": {"custom_model_data":2}, "model":"item/mail"},
+        {"predicate": {"custom_model_data":3}, "model":"item/homebutton"},
+        {"predicate": {"custom_model_data":4}, "model":"item/help"}
+
+     ]
+}

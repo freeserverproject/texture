@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/salmon"
+    },
+    "overrides":[
+        {"predicate": {"custom_model_data":66}, "model":"foods/tuna_kirimi"}
+    ]
+}

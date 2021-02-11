@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides":[
+         {"predicate": {"custom_model_data":1}, "model":"item/freezongift"},
+         {"predicate": {"custom_model_data":2}, "model":"coins/ktc"},
+         {"predicate": {"custom_model_data":3}, "model":"coins/lbc"},
+         {"predicate": {"custom_model_data":4}, "model":"coins/vbc"},
+         {"predicate": {"custom_model_data":5}, "model":"coins/fsc"}
+     ]
+}

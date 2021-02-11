@@ -1,0 +1,17 @@
+{
+	"parent": "item/generated",
+  "textures": {
+      "layer0": "item/pumpkin_pie"
+  },
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model":"item/sansyokudango"},
+        {"predicate": {"custom_model_data":2}, "model":"foods/wataame"},
+        {"predicate": {"custom_model_data":3}, "model":"foods/kakigoori"},
+        {"predicate": {"custom_model_data":4}, "model":"foods/nijiwata"},
+        {"predicate": {"custom_model_data":5}, "model":"foods/yakinasu"},
+        {"predicate": {"custom_model_data":6}, "model":"foods/pizza"},
+        {"predicate": {"custom_model_data":7}, "model":"foods/cup_cake"},
+        {"predicate": {"custom_model_data":8}, "model":"foods/pumpkin_cup_cake"},
+        {"predicate": {"custom_model_data":9}, "model":"foods/omelette"}
+     ]
+}

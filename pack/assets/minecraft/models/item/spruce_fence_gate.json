@@ -1,0 +1,7 @@
+{
+    "parent": "block/spruce_fence_gate",
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model":"stations/open_ticketmachine"},
+        {"predicate": {"custom_model_data":2}, "model":"stations/closed_ticketmachine"}
+    ]
+}

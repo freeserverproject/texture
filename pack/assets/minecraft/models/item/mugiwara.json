@@ -1,0 +1,67 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "entity/villager/profession/farmer",
+		"particle": "entity/villager/profession/farmer"
+	},
+	"elements": [
+		{
+			"from": [0, 0.5, 0],
+			"to": [16, 0.502, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"east": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"south": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"west": {"uv": [0, 0, 2, 1], "texture": "#0"},
+				"up": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"},
+				"down": {"uv": [7.75, 12, 11.75, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0.4375, 3],
+			"to": [13, 5, 13],
+			"faces": {
+				"north": {"uv": [8, 2, 10, 3], "texture": "#0"},
+				"east": {"uv": [14, 2, 16, 3], "texture": "#0"},
+				"south": {"uv": [12, 2, 14, 3], "texture": "#0"},
+				"west": {"uv": [10, 2, 12, 3], "texture": "#0"},
+				"up": {"uv": [10, 0, 12, 2], "texture": "#0"},
+				"down": {"uv": [10, 0, 12, 2], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [68.25, 0, 0],
+			"translation": [-0.25, 4, 3],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [68.25, 0, 0],
+			"translation": [-0.25, 4, 3],
+			"scale": [0.47, 0.47, 0.47]
+		},
+		"firstperson_righthand": {
+			"translation": [3.25, 6.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [3.25, 6.5, 0]
+		},
+		"ground": {
+			"translation": [0, 8, 0]
+		},
+		"gui": {
+			"rotation": [32, 45, 0],
+			"translation": [0, 3.75, -7.75],
+			"scale": [0.77, 0.77, 0.77]
+		},
+		"head": {
+			"translation": [0, 12, 0],
+			"scale": [1.39, 1.39, 1.39]
+		},
+		"fixed": {
+			"rotation": [-90, 45, 0],
+			"translation": [0, 0.25, -7.75]
+		}
+	}
+}

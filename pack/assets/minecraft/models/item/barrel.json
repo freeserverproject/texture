@@ -1,0 +1,8 @@
+{
+	"parent": "block/barrel",
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model":"item/wooden_tea_cup"},
+        {"predicate": {"custom_model_data":2}, "model":"item/wooden_tea_cup_ontrapdoor"},
+        {"predicate": {"custom_model_data":3}, "model":"item/wooden_tea_cup_ondeskreg"}
+     ]
+}

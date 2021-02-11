@@ -1,0 +1,10 @@
+{
+	"parent": "item/egg",
+    "overrides":[
+         {"predicate": {"custom_model_data":1}, "model":"item/easteregg"},
+         {"predicate": {"custom_model_data":2}, "model":"item/dirtegg"},
+         {"predicate": {"custom_model_data":3}, "model":"item/stoneegg"},
+         {"predicate": {"custom_model_data":4}, "model":"item/woodegg"},
+         {"predicate": {"custom_model_data":5}, "model":"item/fishegg"}
+     ]
+}

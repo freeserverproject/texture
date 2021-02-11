@@ -1,0 +1,24 @@
+{
+    "parent": "block/note_block",
+    "overrides":[
+        {"predicate": {"custom_model_data":1}, "model":"item/library"},
+        {"predicate": {"custom_model_data":2}, "model":"item/foryou"},
+        {"predicate": {"custom_model_data":3}, "model":"item/trend"},
+        {"predicate": {"custom_model_data":4}, "model":"item/search"},
+        {"predicate": {"custom_model_data":5}, "model":"item/coverpicture"},
+        {"predicate": {"custom_model_data":6}, "model":"item/guicover1"},
+        {"predicate": {"custom_model_data":7}, "model":"item/guicover2"},
+        {"predicate": {"custom_model_data":8}, "model":"item/pause"},
+        {"predicate": {"custom_model_data":9}, "model":"item/play"},
+        {"predicate": {"custom_model_data":10}, "model":"item/skip"},
+        {"predicate": {"custom_model_data":11}, "model":"item/invisible"},
+        {"predicate": {"custom_model_data":12}, "model":"item/playlist"},
+        {"predicate": {"custom_model_data":13}, "model":"item/artist"},
+        {"predicate": {"custom_model_data":14}, "model":"item/album"},
+        {"predicate": {"custom_model_data":15}, "model":"item/note"},
+        {"predicate": {"custom_model_data":20}, "model":"item/search"},
+        {"predicate": {"custom_model_data":22}, "model":"item/plus"},
+        {"predicate": {"custom_model_data":23}, "model":"item/x"},
+        {"predicate": {"custom_model_data":25}, "model":"item/settings"}
+     ]
+}

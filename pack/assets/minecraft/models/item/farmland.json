@@ -1,0 +1,9 @@
+{
+	"parent": "block/farmland",
+    "overrides":[
+         {"predicate": {"custom_model_data":1}, "model":"item/frica"},
+         {"predicate": {"custom_model_data":2}, "model":"item/kenbaiki"},
+         {"predicate": {"custom_model_data":3}, "model":"item/kenbaiki2"},
+         {"predicate": {"custom_model_data":4}, "model":"item/fricaxshirotama"}
+     ]
+}
