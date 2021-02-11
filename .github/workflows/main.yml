@@ -3,8 +3,6 @@ name: new release
 # Controls when the action will run. 
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
-  push:
-    branches: [ master ]
   pull_request:
     branches: [ master ]
 
@@ -22,9 +20,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      - name: Build project # This would actually build your project, using zip for an example artifact
+      - name: Zipping texture # This would actually build your project, using zip for an example artifact
         run: |
-          zip -rq release pack/ -x "*.DS_Store" "*__MACOSX*"
+          cd pack/
+          zip -rq ../release * -x "*.DS_Store" "*__MACOSX*"
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
