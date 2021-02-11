@@ -44,8 +44,6 @@ jobs:
       - name: Sum sha256
         run: |
           sha256sum ./release.zip | cut -c 1-64 > hash
-            - name: Upload Release Asset
-        id: upload-release-asset 
       - name: Upload hash
         uses: actions/upload-release-asset@v1
         env:
