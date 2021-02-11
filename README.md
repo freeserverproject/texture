@@ -1,3 +1,5 @@
 # Freeserver texture
 
-@release ブランチにPRしたら自動でreleaseに出すようにします
+@master ブランチにPRしたら自動でreleaseに出すようにします
+
+開発時はmaster以外のブランチにpushしてください
