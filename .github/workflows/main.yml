@@ -45,7 +45,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.build.outputs.packVersion }}
-          release_name: ${{ steps.build.outputs.packVersion }}
+          release_name: Release ${{ steps.build.outputs.packVersion }}
           draft: false
           prerelease: false
       - name: Sum sha256
