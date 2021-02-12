@@ -5,5 +5,5 @@ Actionsからnew releaseを実行すると新しいリリーズが作成され�
 自分でForkを作成して
 色々編集をしてpack.mcmetaのpack_versionを新しくしてアップロードしましょう
 
-#注意点
+# 注意点
 絶っっっったいにbuild.jsを実行しないでください
