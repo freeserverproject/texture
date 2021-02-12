@@ -27,10 +27,12 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '12.x'
+      - name: install dependencies
+        run: |
+          npm ci
       - name: build texture pack
         id: build
         run: |
-          npm install
           node build.js
       - name: Zipping texture # This would actually build your project, using zip for an example artifact
         run: |
