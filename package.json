@@ -1,0 +1,21 @@
+{
+  "name": "texture",
+  "version": "1.0.0",
+  "description": "Build texture pack",
+  "main": "build.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsutoringo/texture.git"
+  },
+  "author": "tsutoringo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsutoringo/texture/issues"
+  },
+  "homepage": "https://github.com/tsutoringo/texture#readme"
+}
