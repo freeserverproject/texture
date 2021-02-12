@@ -1,5 +1,9 @@
 # Freeserver texture
 
-@master ブランチにPRしたら自動でreleaseに出すようにします
+# 使い方
+Actionsからnew releaseを実行すると新しいリリーズが作成されます。
+自分でForkを作成して
+色々編集をしてpack.mcmetaのpack_versionを新しくしてアップロードしましょう
 
-開発時はmaster以外のブランチにpushしてください
+#注意点
+絶っっっったいにbuild.jsを実行しないでください
