@@ -20,7 +20,7 @@ if (packMcmeta.pack.pack_version) {
 
 fs.writeFileSync('./pack/pack.mcmeta', JSON.stringify(packMcmeta));
 
-const jsonFiles = getFiles('./pack/assets/');
+const jsonFiles = getFiles('./pack/assets/', name => /^.+\.json$/.test(name));
 
 for (const path of jsonFiles) {
 	const json = JSON.parse(fs.readFileSync(path));
