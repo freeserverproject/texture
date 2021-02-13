@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/figure/figure",
+	"textures": {
+		"0": "skins/tererun2102",
+		"particle": "skins/tererun2102"
+	}
+}
