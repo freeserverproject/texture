@@ -15,10 +15,15 @@ try {
 if (packMcmeta.pack.pack_version) {
 	packMcmeta.pack.description = packMcmeta.pack.description.replace(/\%pack_version\%/g, packMcmeta.pack.pack_version);
 	core.setOutput("packVersion", packMcmeta.pack.pack_version);
+	console.log(`Pack version is ${packMcmeta.pack.pack_version}`)
 	delete packMcmeta.pack.pack_version;
 }
 
 fs.writeFileSync('./pack/pack.mcmeta', JSON.stringify(packMcmeta));
+
+core.setOutput("packDescription", packMcmeta.pack.description);
+console.log('Minify json File');
+
 
 const jsonFiles = getFiles('./pack/assets/', name => /^.+\.json$/.test(name));
 
