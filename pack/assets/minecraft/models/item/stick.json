@@ -35,6 +35,7 @@
         {"predicate": {"custom_model_data":29}, "model":"item/figure/nakatai_0322"},
         {"predicate": {"custom_model_data":30}, "model":"item/figure/gray27wi"},
         {"predicate": {"custom_model_data":31}, "model":"item/figure/nikuzuki"},
+        {"predicate": {"custom_model_data":32}, "model":"item/figure/tererun2102"},
         {"predicate": {"custom_model_data":500}, "model":"hats/cabohead"},
         {"predicate": {"custom_model_data":501}, "model":"hats/headphone"},
         {"predicate": {"custom_model_data":502}, "model":"item/figure/others/manekineko"},
