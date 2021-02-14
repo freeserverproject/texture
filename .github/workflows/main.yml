@@ -46,6 +46,7 @@ jobs:
         with:
           tag_name: ${{ steps.build.outputs.packVersion }}
           release_name: Release ${{ steps.build.outputs.packVersion }}
+          body: ${{ steps.build.outputs.packDescription }}
           draft: false
           prerelease: false
       - name: Sum sha256

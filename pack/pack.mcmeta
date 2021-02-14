@@ -1,7 +1,7 @@
 {
 	"pack":{
 		"pack_format": 6,
-		"pack_version": "v1.11.0",
-		"description": "F-Tex %pack_version% \n§b魚種の追加"
+		"pack_version": "v1.10.5",
+		"description": "F-Tex %pack_version% \n§aファイルのさらなる最小化。etc"
 	}
 }
