@@ -50,7 +50,7 @@
         {"predicate": {"custom_model_data":511}, "model":"item/middle_material/redstone_alloy"},
         {"predicate": {"custom_model_data":512}, "model":"hats/headphone_kittyedition"},
         {"predicate": {"custom_model_data":513}, "model":"hats/glass_shumu"},
-        {"predicate": {"custom_model_data":514}, "model":"hats/sunglass"}
-
+        {"predicate": {"custom_model_data":514}, "model":"hats/sunglass"},
+        {"predicate": {"custom_model_data":515}, "model":"hats/helmet_with_headlight"}
     ]
 }
