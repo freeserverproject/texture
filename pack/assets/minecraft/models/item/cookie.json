@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/cookie"
     },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model":"foods/cookiemate"}
+        {"predicate": {"custom_model_data":1}, "model":"foods/cookiemate"}, 
+        {"predicate": {"custom_model_data":2}, "model":"foods/bar_of_chocolate"}
     ]
   }
