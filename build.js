@@ -2,6 +2,7 @@ const core = require('@actions/core');
 const github = require('@actions/github');
 const fs = require('fs');
 const getFiles = require('./utils/showFiles');
+const replacer = require('./utils/replacer');
 
 console.log('Build pack.mcmeta');
 let packMcmeta;
@@ -39,5 +40,5 @@ for (const path of jsonFiles) {
 			}
 		}
 	}
-	fs.writeFileSync(path, JSON.stringify(json));
+	fs.writeFileSync(path, JSON.stringify(json, replacer));
 }
