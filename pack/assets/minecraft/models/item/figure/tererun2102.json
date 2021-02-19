@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/figure/figure_alex",
 	"textures": {
-		"0": "skins/tererun",
-		"particle": "skins/tererun"
+		"0": "skins/tererun2102",
+		"particle": "skins/tererun2102"
 	}
 }

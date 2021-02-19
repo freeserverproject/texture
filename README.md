@@ -7,3 +7,6 @@ Actionsからnew releaseを実行すると新しいリリーズが作成され�
 
 # 注意点
 絶っっっったいにbuild.jsを実行しないでください
+
+# Credits
+[3Dモデル作成 - Blockbench](https://blockbench.net/)
