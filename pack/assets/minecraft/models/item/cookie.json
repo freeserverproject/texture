@@ -5,6 +5,8 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model":"foods/cookiemate"}, 
-        {"predicate": {"custom_model_data":2}, "model":"foods/bar_of_chocolate"}
+        {"predicate": {"custom_model_data":2}, "model":"foods/bar_of_chocolate"}, 
+        {"predicate": {"custom_model_data":3}, "model":"foods/cookiemate_choco"}, 
+        {"predicate": {"custom_model_data":4}, "model":"foods/cookiemate_fruit"}
     ]
   }
