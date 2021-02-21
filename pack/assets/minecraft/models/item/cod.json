@@ -83,6 +83,7 @@
          {"predicate": {"custom_model_data":77}, "model":"fish/tyotinankou"},
          {"predicate": {"custom_model_data":78}, "model":"fish/ryugunotukai"},
          {"predicate": {"custom_model_data":79}, "model":"fish/demenigisu"},
-         {"predicate": {"custom_model_data":80}, "model":"fish/siirakansu"}
+         {"predicate": {"custom_model_data":80}, "model":"fish/siirakansu"},
+         {"predicate": {"custom_model_data":81}, "model":"fish/unagi"}
      ]
 }
