@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/figure/figure",
+	"textures": {
+		"0": "skins/null",
+		"particle": "skins/null"
+	}
+}
