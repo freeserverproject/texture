@@ -1,6 +1,11 @@
 const fs = require('fs');
 const path = require('path');
 
+/**
+ * returns Files
+ * @param {String} dirpath dirpath Directory
+ * @param {Function} filter
+**/
 const showFiles = (dirpath, filter, a=[]) => {
 	const dirents = fs.readdirSync(dirpath, {withFileTypes: true});
 	for (const dirent of dirents) {
