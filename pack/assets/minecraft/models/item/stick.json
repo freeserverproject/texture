@@ -39,6 +39,7 @@
         {"predicate": {"custom_model_data":33}, "model":"item/figure/alpha9n2"},
         {"predicate": {"custom_model_data":34}, "model":"item/figure/taniyan18"},
         {"predicate": {"custom_model_data":35}, "model":"item/figure/karioo_b"},
+        {"predicate": {"custom_model_data":36}, "model":"item/figure/null"},
         {"predicate": {"custom_model_data":500}, "model":"hats/cabohead"},
         {"predicate": {"custom_model_data":501}, "model":"hats/headphone"},
         {"predicate": {"custom_model_data":502}, "model":"item/figure/others/manekineko"},
