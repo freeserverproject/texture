@@ -4,7 +4,6 @@
 		"2": "block/blue_ice",
 		"3": "block/iron_block",
 		"4": "block/stone",
-		"5": "item/golden_apple",
 		"particle": "block/stone"
 	},
 	"elements": [
@@ -1335,19 +1334,6 @@
 				"up": {"uv": [0, 0, 0, 16], "texture": "#3"},
 				"down": {"uv": [0, 0, 0, 16], "texture": "#3"}
 			}
-		},
-		{
-			"from": [13.325, 4.1, 6],
-			"to": [13.325, 8.1, 10],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 8, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 9.4], "texture": "#3"},
-				"east": {"uv": [0, 0, 16, 15], "texture": "#5"},
-				"south": {"uv": [0, 0, 0, 9.4], "texture": "#3"},
-				"west": {"uv": [0, 0, 16, 9.4], "texture": "#3"},
-				"up": {"uv": [0, 0, 0, 16], "texture": "#3"},
-				"down": {"uv": [0, 0, 0, 16], "texture": "#3"}
-			}
 		}
 	],
 	"gui_light": "front",
@@ -1405,7 +1391,7 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"children": [97, 98, 99, 100, 101, 102, 103]
+			"children": [97, 98, 99, 100, 101, 102]
 		}
 	]
 }
