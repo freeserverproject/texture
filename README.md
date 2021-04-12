@@ -1,17 +1,25 @@
 # Freeserver texture
 
 # 使い方
-Actionsからnew releaseを実行すると新しいリリーズが作成されます。
+1. このレポジトリをフォークします。
+2. 色々作業をします。
+3. 作業が終わったらCommitとPushを済ませてdevelopブランチにPullRequestを出します
 
-自分でForkを作成して色々編集をして新しくしてPull Requestを出しましょう
+※ masterに直接マージしたらシバきます
+# リリースするとき
+1. developからmasterにマージします
+2. masterのpack.mcmetaを編集してバージョンを上げる
+4. お好みでdescriptionもかえる
+5. Actionsからリリースする。
 
-jsonファイルにコメントを記述したいときは
 ```JSON
 {
-  "__comment": "comment here"
+  "__comment": "comment here",
+  "__name": "name"
 }
 ```
-とするとリリース時に削除してリリースされます
+Keyの名前を上の２つを使う削除されリリースされます。
+
 # 注意点
 絶っっっったいにbuild.jsを実行しないでください
 
