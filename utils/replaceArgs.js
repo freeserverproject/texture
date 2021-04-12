@@ -1,0 +1,1 @@
+module.exports = (t, a) => Object.entries(a) .reduce((d, [k, v]) => d.replace(new RegExp(`\\%${k}\\%`,'g'), v), t);
