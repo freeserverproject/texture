@@ -16,4 +16,4 @@ const parsedFile = files.map(f => {
 	return m;
 });
 
-fs.writeFileSync('./models.csv', parsedFile.map(m=>m.join(',')).join('\n'));
+fs.writeFileSync('./models.csv', '名前,パス,parent(親モデル),elements(要素数),override(上書き),備考\n' + parsedFile.map(m=>m.join(',')).join('\n'));
