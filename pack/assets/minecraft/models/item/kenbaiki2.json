@@ -1,4 +1,5 @@
 {
+	"__name": "券売機2",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/kenbaiki2",

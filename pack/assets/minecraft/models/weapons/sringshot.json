@@ -1,4 +1,5 @@
 {
+	"__name": "パチンコ",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/oak_planks",

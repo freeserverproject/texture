@@ -1,4 +1,5 @@
 {
+	"__name": "ヘルプのボタン",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/help"

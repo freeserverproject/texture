@@ -1,4 +1,5 @@
 {
+	"__name": "フリゾン",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "item/freezongiftticket"

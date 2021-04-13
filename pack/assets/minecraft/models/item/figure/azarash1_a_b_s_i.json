@@ -1,4 +1,5 @@
 {
+	"__name": "azarash1_a_b_s_iのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/azarash1_a_b_s_i",

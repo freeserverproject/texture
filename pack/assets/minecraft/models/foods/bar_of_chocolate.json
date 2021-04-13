@@ -1,4 +1,5 @@
 {
+	"__name": "チョコレート",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/red_glazed_terracotta",

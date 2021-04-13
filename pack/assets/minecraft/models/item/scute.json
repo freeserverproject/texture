@@ -1,4 +1,5 @@
 {
+	"__name": "亀の甲羅",
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/scute"

@@ -1,4 +1,5 @@
 {
+	"__name": "検索ボタン",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/search"

@@ -1,4 +1,5 @@
 {
+	"__name": "バスタオル",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/bathtowel",

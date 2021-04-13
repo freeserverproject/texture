@@ -1,4 +1,5 @@
 {
+	"__name": "耕地",
 	"parent": "block/farmland",
     "overrides":[
          {"predicate": {"custom_model_data":1}, "model":"item/frica"},

@@ -1,4 +1,5 @@
 {
+	"__name": "tererunのフィギュア(2021年2月バージョン)",
 	"parent": "minecraft:item/figure/figure_alex",
 	"textures": {
 		"0": "skins/tererun2102",

@@ -1,4 +1,5 @@
 {
+	"__name": "nakatai_0322のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/nakatai_0322",

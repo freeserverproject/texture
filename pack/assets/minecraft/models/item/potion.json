@@ -1,4 +1,5 @@
 {
+	"__name": "ポーション",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/potion_overlay",

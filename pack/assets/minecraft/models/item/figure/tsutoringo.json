@@ -1,4 +1,6 @@
 {
+	"__name": "tsutoringoのフィギュア",
+	"__comment": "俺",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/tsutoringo",

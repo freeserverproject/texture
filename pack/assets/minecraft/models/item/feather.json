@@ -1,4 +1,5 @@
 {
+	"__name": "羽",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/feather"

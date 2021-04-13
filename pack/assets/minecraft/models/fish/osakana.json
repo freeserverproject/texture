@@ -1,4 +1,6 @@
 {
+	"__name": "不明",
+	"__comment__": "どのモデルにも割り当てられてない",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/sakana",

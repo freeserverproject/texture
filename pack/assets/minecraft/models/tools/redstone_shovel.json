@@ -1,4 +1,5 @@
 {
+	"__name": "レッドストーンシャベル",
 	"parent": "item/handheld",
 	"textures": {
 		"layer0": "tools/redstone_shovel"

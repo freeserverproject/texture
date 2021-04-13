@@ -1,4 +1,5 @@
 {
+	"__name": "Alpha9nのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/alpha9n",

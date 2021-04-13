@@ -1,4 +1,5 @@
 {
+	"__name": "ボウル",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/bowl"

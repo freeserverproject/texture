@@ -1,4 +1,5 @@
 {
+	"__name": "kotamaro_のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/kotamaro_",

@@ -1,4 +1,5 @@
 {
+	"__name": "サンタの帽子",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/white_wool",

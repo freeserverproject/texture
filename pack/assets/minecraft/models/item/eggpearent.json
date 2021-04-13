@@ -1,4 +1,6 @@
 {
+	"__name": "eggpearent",
+    "__comment": "用途不明",
 	"parent": "item/egg",
     "overrides":[
          {"predicate": {"custom_model_data":1}, "model":"item/easteregg"},

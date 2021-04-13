@@ -1,4 +1,5 @@
 {
+	"__name": "トレンドのボタン",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/trend"

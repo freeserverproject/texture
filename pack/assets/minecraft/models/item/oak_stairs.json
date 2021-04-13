@@ -1,4 +1,5 @@
 {
+	"__name": "オークの階段",
 	"parent": "block/oak_stairs",
     "overrides":[
         {"predicate": {"custom_model_data":1000}, "model":"dish/chopingboard"}

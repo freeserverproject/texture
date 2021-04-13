@@ -1,4 +1,5 @@
 {
+	"__name": "閉じている改札",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/5ababa",

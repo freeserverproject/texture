@@ -1,4 +1,5 @@
 {
+	"__name": "ログインボーナスコイン",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "coins/fscoin_bronze",

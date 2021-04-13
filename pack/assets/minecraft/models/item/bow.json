@@ -1,4 +1,5 @@
 {
+  "__name": "弓",
   "parent": "item/generated",
   "textures": {
       "layer0": "item/bow"

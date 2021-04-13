@@ -1,4 +1,5 @@
 {
+	"__name": "樽",
 	"parent": "block/barrel",
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model":"item/wooden_tea_cup"},

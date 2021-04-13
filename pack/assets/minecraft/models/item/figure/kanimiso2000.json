@@ -1,4 +1,5 @@
 {
+	"__name": "kanimiso2000のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/kanimiso2000",

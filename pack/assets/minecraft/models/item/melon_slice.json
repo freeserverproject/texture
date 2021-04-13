@@ -1,4 +1,5 @@
 {
+	"__name": "スイカ",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/melon_slice"

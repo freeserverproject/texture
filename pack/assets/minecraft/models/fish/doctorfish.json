@@ -1,4 +1,5 @@
 {
+	"__name": "ドクターフィッシュ",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "fish/doctorfish",

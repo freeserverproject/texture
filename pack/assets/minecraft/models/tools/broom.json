@@ -1,4 +1,5 @@
 {
+	"__name": "ほうき",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/hay_block_side",
