@@ -1,4 +1,5 @@
 {
+	"__name": "momocokのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/momocok",

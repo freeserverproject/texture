@@ -1,4 +1,5 @@
 {
+	"__name": "枯れ木",
     "parent": "item/generated",
     "textures": {
         "layer0": "block/dead_bush"

@@ -1,4 +1,5 @@
 {
+	"__name": "プリズマリンのかけら",
     "parent":"item/generated",
     "textures":{
         "layer0":"item/prismarine_shard"

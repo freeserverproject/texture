@@ -1,4 +1,5 @@
 {
+	"__name": "shirotamagoのフィギュア(夏バージョン)",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/shirotamagosu",

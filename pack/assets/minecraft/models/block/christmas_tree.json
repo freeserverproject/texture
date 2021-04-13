@@ -1,4 +1,5 @@
 {
+	"__name": "クリスマスツリー",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/spruce_log",

@@ -1,4 +1,5 @@
 {
+  "__name": "本",
   "parent": "item/generated",
   "textures": {
       "layer0": "item/book"

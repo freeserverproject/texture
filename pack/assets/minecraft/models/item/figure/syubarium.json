@@ -1,4 +1,5 @@
 {
+	"__name": "syubariumのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/syubarium",

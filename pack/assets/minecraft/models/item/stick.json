@@ -1,4 +1,5 @@
 {
+	"__name": "棒",
     "parent": "item/handheld",
     "textures": {
         "layer0": "item/stick"

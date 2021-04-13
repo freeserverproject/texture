@@ -1,4 +1,6 @@
 {
+	"__name": "安全ヘルメット",
+	"__comment": "ヨシ！",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/anzen_helmet_3",

@@ -1,4 +1,5 @@
 {
+	"__name": "草ブロックの側面",
     "parent": "item/generated",
     "textures": {
         "layer0": "block/grass_block_side"

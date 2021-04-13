@@ -1,4 +1,5 @@
 {
+	"__name": "em0914のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/em0914",

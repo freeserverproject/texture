@@ -1,4 +1,5 @@
 {
+	"__name": "投票コイン",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "coins/fscoin_silver",

@@ -1,4 +1,5 @@
 {
+	"__name": "コーヒーマシン",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/iron_block",

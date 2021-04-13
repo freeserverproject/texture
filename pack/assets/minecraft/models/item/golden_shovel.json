@@ -1,4 +1,5 @@
 {
+	"__name": "金のピッケル",
   "parent": "item/handheld",
   "textures": {
       "layer0": "item/golden_pickaxe"

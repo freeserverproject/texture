@@ -1,4 +1,6 @@
 {
+	"__name": "麦わら帽子",
+	"__comment": "麦わらの〜",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "entity/villager/profession/farmer",

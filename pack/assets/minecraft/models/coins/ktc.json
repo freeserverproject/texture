@@ -1,4 +1,5 @@
 {
+	"__name": "こたまろコイン",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "coins/ktc"

@@ -1,4 +1,5 @@
 {
+	"__name": "gray27のフィギュア(冬バージョン)",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
 		"0": "skins/gray27wi",

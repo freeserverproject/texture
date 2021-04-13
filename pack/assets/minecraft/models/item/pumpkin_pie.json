@@ -1,4 +1,5 @@
 {
+	"__name": "パンプキンパイ",
 	"parent": "item/generated",
   "textures": {
       "layer0": "item/pumpkin_pie"

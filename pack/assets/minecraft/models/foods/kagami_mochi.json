@@ -1,4 +1,5 @@
 {
+	"__name": "鏡餅",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/green_concrete_powder",

@@ -1,4 +1,5 @@
 {
+	"__name": "猫(三毛猫)",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/black_wool",

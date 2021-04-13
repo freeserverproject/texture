@@ -1,4 +1,5 @@
 {
+	"__name": "For youのボタン",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/foryou"

@@ -1,4 +1,5 @@
 {
+	"__name": "アイテムカバー",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/itemcover"

@@ -1,4 +1,5 @@
 {
+	"__name": "メダカ",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"2": "fish/medaka"

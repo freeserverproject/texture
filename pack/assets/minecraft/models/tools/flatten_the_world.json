@@ -1,4 +1,5 @@
 {
+	"__name": "整地の杖",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/smooth_stone",

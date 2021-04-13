@@ -1,4 +1,5 @@
 {
+	"__name": "牛の皮",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/leather"

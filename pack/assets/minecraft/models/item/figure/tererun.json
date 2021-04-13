@@ -1,4 +1,5 @@
 {
+	"__name": "tererunのフィギュア",
 	"parent": "minecraft:item/figure/figure_alex",
 	"textures": {
 		"0": "skins/tererun",

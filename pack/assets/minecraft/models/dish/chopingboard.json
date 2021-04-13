@@ -1,4 +1,5 @@
 {
+	"__name": "まな板",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/beehive_end",

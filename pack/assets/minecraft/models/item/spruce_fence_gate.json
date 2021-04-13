@@ -1,4 +1,5 @@
 {
+	"__name": "松のフェンスゲート",
     "parent": "block/spruce_fence_gate",
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model":"stations/open_ticketmachine"},

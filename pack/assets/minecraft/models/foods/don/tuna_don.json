@@ -1,4 +1,5 @@
 {
+	"__name": "ツナ丼",
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/nether_bricks",
