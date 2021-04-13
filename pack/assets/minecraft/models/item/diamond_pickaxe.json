@@ -1,5 +1,5 @@
 {
-	"__name": "ダイアモンド",
+	"__name": "ダイヤモンドツルハシ",
   "parent": "item/handheld",
   "textures": {
     "layer0": "item/diamond_pickaxe"
