@@ -1,5 +1,5 @@
 {
-	"__name": "鮭",
+	"__name": "たら",
     "parent": "item/generated",
     "textures": {
         "layer0": "item/cod"
