@@ -1,0 +1,8 @@
+{
+	"__name": "KARIOO_Bのフィギュア",
+	"parent": "minecraft:item/figure/figure",
+	"textures": {
+		"0": "skins/karioo_b",
+		"particle": "skins/karioo_b"
+	}
+}
