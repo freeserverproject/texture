@@ -1,0 +1,11 @@
+{
+	"__name": "ブレイズロッド",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/blaze_rod"
+    },
+    "overrides":[
+      {"predicate": {"custom_model_data":100}, "model":"item/otheritem/eva_keys/key_temp1"}
+    ]
+  
+}
