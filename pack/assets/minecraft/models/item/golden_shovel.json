@@ -1,10 +1,10 @@
 {
 	"__name": "金のピッケル",
-  "parent": "item/handheld",
-  "textures": {
-      "layer0": "item/golden_pickaxe"
-    },
-    "overrides":[
-         {"predicate": {"custom_model_data":1}, "model":"tools/redstone_shovel"}
-     ]
+	"parent": "item/handheld",
+ 	"textures": {
+		"layer0": "item/golden_shovel"
+	},
+	"overrides":[
+		{"predicate": {"custom_model_data":1}, "model":"tools/redstone_shovel"}
+	]
 }
