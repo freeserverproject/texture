@@ -7,8 +7,7 @@
 
 ※ masterに直接マージしたらシバきます
 # リリースするとき
-1. developからmasterにマージします
-2. masterのpack.mcmetaを編集してバージョンを上げる
+1. developからmasterにマージします。バージョンも書き換える
 4. お好みでdescriptionもかえる
 5. Actionsからリリースする。
 
