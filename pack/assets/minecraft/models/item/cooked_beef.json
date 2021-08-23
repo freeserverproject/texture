@@ -5,6 +5,8 @@
         "layer0": "item/cooked_beef"
     },
     "overrides":[
-         {"predicate": {"custom_model_data":1}, "model":"foods/huranku"}
+         {"predicate": {"custom_model_data":1}, "model":"foods/huranku"},
+         {"predicate": {"custom_model_data":2}, "model":"foods/chicken_steak"},
+         {"predicate": {"custom_model_data":3}, "model":"foods/apple_candy"}
     ]
 }
