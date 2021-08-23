@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/gray_dye"
+    },
+    "overrides":[
+         {"predicate": {"custom_model_data":1}, "model":"garapon/garapon_black_ball"},
+         {"predicate": {"custom_model_data":2}, "model":"garapon/garapon_blue_ball"},
+         {"predicate": {"custom_model_data":3}, "model":"garapon/garapon_dodai"},
+         {"predicate": {"custom_model_data":4}, "model":"garapon/garapon_gold_ball"},
+         {"predicate": {"custom_model_data":5}, "model":"garapon/garapon_green_ball"},
+         {"predicate": {"custom_model_data":6}, "model":"garapon/garapon_nomi"},
+         {"predicate": {"custom_model_data":7}, "model":"garapon/garapon_red_ball"},
+         {"predicate": {"custom_model_data":8}, "model":"garapon/garapon_white_ball"}
+    ]
+}

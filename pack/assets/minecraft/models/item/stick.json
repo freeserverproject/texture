@@ -58,6 +58,10 @@
         {"predicate": {"custom_model_data":514}, "model":"hats/sunglass"},
         {"predicate": {"custom_model_data":515}, "model":"hats/helmet_with_headlight_off"},
         {"predicate": {"custom_model_data":516}, "model":"item/figure/trophy_g"},
+        {"predicate": {"custom_model_data":517}, "model":"hats/masks/fox"},
+        {"predicate": {"custom_model_data":518}, "model":"hats/masks/fox_normal"},
+        {"predicate": {"custom_model_data":519}, "model":"hats/masks/fox_oblique"},
+        {"predicate": {"custom_model_data":520}, "model":"hats/masks/fox_oblique_normal"},
         {"predicate": {"custom_model_data":1000}, "model":"item/otheritem/eva_meds/ifak"}
     ]
 }
