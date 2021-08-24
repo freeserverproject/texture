@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/foods/cut_fruits/base",
+	"parent": "item/foods/cut_fruits/parent",
 	"textures": {
 		"0": "block/white_stained_glass",
 		"1": "block/lime_shulker_box",
