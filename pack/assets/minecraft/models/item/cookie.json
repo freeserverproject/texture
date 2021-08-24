@@ -11,8 +11,8 @@
     {"predicate": {"custom_model_data":4}, "model":"foods/cookiemate_fruit"},
     {"predicate": {"custom_model_data":5}, "model":"foods/baby_castella_s"},
     {"predicate": {"custom_model_data":6}, "model":"foods/baby_castella_l"},
-    {"predicate": {"custom_model_data":7}, "model":"foods/cut_fruits/cut_fruit_grape"},
-    {"predicate": {"custom_model_data":8}, "model":"foods/cut_fruits/cut_fruit_melon"},
-    {"predicate": {"custom_model_data":9}, "model":"foods/cut_fruits/cut_fruit_pineapple"}
+    {"predicate": {"custom_model_data":7}, "model":"foods/cut_fruits/grape"},
+    {"predicate": {"custom_model_data":8}, "model":"foods/cut_fruits/melon"},
+    {"predicate": {"custom_model_data":9}, "model":"foods/cut_fruits/pineapple"}
   ]
 }
