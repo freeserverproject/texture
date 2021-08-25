@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "foods/cut_fruits/parent",
+	"textures": {
+		"0": "block/white_stained_glass",
+		"1": "block/yellow_shulker_box",
+		"2": "skins/helms/riru2246",
+		"particle": "block/white_stained_glass"
+	},
+	"groups": [
+		{
+			"name": "cup",
+			"origin": [5.99698, 3, 10.18485],
+			"color": 0,
+			"children": [
+				{
+					"name": "top_cup",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+				},
+				{
+					"name": "bottom_cup",
+					"origin": [5.99698, 3, 10.18485],
+					"color": 0,
+					"children": [11, 12, 13, 14, 15, 16, 17, 18, 19]
+				}
+			]
+		},
+		{
+			"name": "kastera",
+			"origin": [7.9, 3.8, 8],
+			"color": 0,
+			"children": [20, 21, 22, 23, 24]
+		}, 25]
+}
