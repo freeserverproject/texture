@@ -5,6 +5,7 @@
       "layer0": "item/bread"
   },
     "overrides":[
-        {"predicate": {"custom_model_data":1}, "model":"foods/big_burger"}
+        {"predicate": {"custom_model_data":1}, "model":"foods/big_burger"},
+        {"predicate": {"custom_model_data":2}, "model":"foods/corn"}
      ]
 }
