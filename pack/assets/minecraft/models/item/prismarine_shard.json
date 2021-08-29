@@ -6,6 +6,7 @@
     },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model":"item/frica"},
-        {"predicate": {"custom_model_data":2}, "model":"item/fricaxshirotama"}
+        {"predicate": {"custom_model_data":2}, "model":"item/fricaxshirotama"},
+        {"predicate": {"custom_model_data":3}, "model":"item/frica_summer"}
     ]
 }
