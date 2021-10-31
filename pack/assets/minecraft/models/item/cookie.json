@@ -13,6 +13,7 @@
     {"predicate": {"custom_model_data":6}, "model":"foods/baby_castella_l"},
     {"predicate": {"custom_model_data":7}, "model":"foods/cut_fruits/grape"},
     {"predicate": {"custom_model_data":8}, "model":"foods/cut_fruits/melon"},
-    {"predicate": {"custom_model_data":9}, "model":"foods/cut_fruits/pineapple"}
+    {"predicate": {"custom_model_data":9}, "model":"foods/cut_fruits/pineapple"},
+    {"predicate": {"custom_model_data":10}, "model":"foods/pumpkin_candy"}
   ]
 }
