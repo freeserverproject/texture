@@ -1,4 +1,4 @@
-# Freeserver texture
+# FREESERVER texture
 
 ## 使い方
 1. このレポジトリをフォークします。
