@@ -1,0 +1,8 @@
+{
+	"__name": "Ueki(jinseimendoi)のフィギュア",
+	"parent": "minecraft:item/figure/figure",
+	"textures": {
+		"0": "skins/ueki",
+		"particle": "skins/ueki"
+	}
+}
