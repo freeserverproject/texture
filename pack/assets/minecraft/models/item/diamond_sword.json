@@ -1,10 +1,9 @@
 {
-	"__name": "ダイヤモンドの剣",
-    "parent": "item/generated",
+    "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "item/diamond_sword"
+        "layer0": "minecraft:item/diamond_sword"
     },
     "overrides":[
-         {"predicate": {"custom_model_data":1}, "model":"ice_sword"}
+        {"predicate": {"custom_model_data":1}, "model":"weapons/ice_sword.json"}
     ]
 }
