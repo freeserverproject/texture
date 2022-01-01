@@ -66,6 +66,7 @@
         {"predicate": {"custom_model_data":521}, "model":"hats/masks/maple8192_mask"},
         {"predicate": {"custom_model_data":522}, "model":"hats/masks/taniyan18_mask"},
         {"predicate": {"custom_model_data":523}, "model":"item/otheritem/spinner"},
+        {"predicate": {"custom_model_data":524}, "model":"placeable/kadomatu"},
         {"predicate": {"custom_model_data":1000}, "model":"item/otheritem/eva_meds/ifak"},
         {"predicate": {"custom_model_data":1100}, "model":"item/otheritem/eva_weapons/scar_l"},
         {"predicate": {"custom_model_data":5000}, "model":"item/figure/others/momizidani"} 
