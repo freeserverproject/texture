@@ -3,7 +3,7 @@
 	"textures": {
 		"4": "block/black_concrete",
 		"5": "block/white_concrete",
-		"8": "新しいフォルダー:block/yellow_concrete"
+		"8": "block/yellow_concrete"
 	},
 	"elements": [
 		{

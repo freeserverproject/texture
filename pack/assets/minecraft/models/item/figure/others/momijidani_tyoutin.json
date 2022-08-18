@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"4": "block/black_concrete",
-		"7": "新しいフォルダー (2):block/blue_concrete",
-		"10": "新しいフォルダー (2):block/stone_bricks"
+		"7": "block/blue_concrete",
+		"10": "block/stone_bricks"
 	},
 	"elements": [
 		{
