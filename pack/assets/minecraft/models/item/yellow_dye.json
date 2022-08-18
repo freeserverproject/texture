@@ -1,0 +1,10 @@
+{
+	"__name":"黄色の染料",
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/yellow_dye"
+  },
+  "overrides":[
+    {"predicate": {"custom_model_data":1}, "model":"foods/jellyfish/octopus_jellyfish"}
+  ]
+}
