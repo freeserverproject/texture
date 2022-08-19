@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/amethyst_block",
+		"0": "block/light_blue_shulker_box",
 		"1": "block/light_blue_stained_glass",
 		"2": "block/blue_shulker_box",
-		"particle": "block/amethyst_block"
+		"particle": "block/light_blue_shulker_box"
 	},
 	"elements": [
 		{
