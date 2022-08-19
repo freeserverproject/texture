@@ -6,7 +6,7 @@
     },
     "overrides":[
       {"predicate": {"custom_model_data":1}, "model":"foods/nyuru/nyuru_black"},
-      {"predicate": {"custom_model_data":2}, "model":"foods/nyuru/nyuru_black"},
+      {"predicate": {"custom_model_data":2}, "model":"foods/nyuru/nyuru_blue"},
       {"predicate": {"custom_model_data":3}, "model":"foods/nyuru/nyuru_red"},
       {"predicate": {"custom_model_data":4}, "model":"foods/nyuru/nyuru_yellow"},
       {"predicate": {"custom_model_data":66}, "model":"foods/tuna_kirimi"}
