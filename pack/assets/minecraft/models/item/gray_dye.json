@@ -11,6 +11,8 @@
          {"predicate": {"custom_model_data":5}, "model":"garapon/garapon_green_ball"},
          {"predicate": {"custom_model_data":6}, "model":"garapon/garapon_nomi"},
          {"predicate": {"custom_model_data":7}, "model":"garapon/garapon_red_ball"},
-         {"predicate": {"custom_model_data":8}, "model":"garapon/garapon_white_ball"}
+         {"predicate": {"custom_model_data":8}, "model":"garapon/garapon_white_ball"},
+         {"predicate": {"custom_model_data":9}, "model":"item/sparkles/sparkles"},
+         {"predicate": {"custom_model_data":10}, "model":"item/sparkles/sparkles_lit"}
     ]
 }
