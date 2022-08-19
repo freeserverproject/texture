@@ -6,6 +6,7 @@
         "layer1": "item/potion"
     },
     "overrides":[
-         {"predicate": {"custom_model_data":1}, "model":"item/zihanki"}
+        {"predicate": {"custom_model_data":1}, "model":"item/zihanki"},
+        {"predicate": {"custom_model_data":100}, "model":"foods/cider"}
      ]
 }
