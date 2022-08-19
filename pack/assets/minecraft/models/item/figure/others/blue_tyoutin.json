@@ -889,8 +889,8 @@
 			"translation": [0, 2.5, 0]
 		},
 		"head": {
-			"translation": [0.75, -20.75, 0],
-			"scale": [1.53, 1.53, 1.53]
+			"translation": [0, -6.5, 0],
+			"scale": [3.38, 3.38, 3.38]
 		},
 		"fixed": {
 			"translation": [0, 2.25, -1.5]
