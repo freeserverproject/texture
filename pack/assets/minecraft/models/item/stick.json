@@ -70,6 +70,12 @@
         {"predicate": {"custom_model_data":525}, "model":"item/figure/others/komainu"},
         {"predicate": {"custom_model_data":1000}, "model":"item/otheritem/eva_meds/ifak"},
         {"predicate": {"custom_model_data":1100}, "model":"item/otheritem/eva_weapons/scar_l"},
-        {"predicate": {"custom_model_data":5000}, "model":"item/figure/others/momizidani"} 
+        {"predicate": {"custom_model_data":5000}, "model":"item/figure/others/momizidani"},
+        {"predicate": {"custom_model_data":6000}, "model":"armband/red_armband"},
+        {"predicate": {"custom_model_data":6001}, "model":"armband/black_armband"},
+        {"predicate": {"custom_model_data":6002}, "model":"armband/blue_armband"},
+        {"predicate": {"custom_model_data":6003}, "model":"armband/lime_armband"},
+        {"predicate": {"custom_model_data":6004}, "model":"armband/white_armband"},
+        {"predicate": {"custom_model_data":6005}, "model":"armband/red_cross_armband"}
     ]
 }
