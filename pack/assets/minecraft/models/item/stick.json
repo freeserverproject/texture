@@ -76,6 +76,6 @@
         {"predicate": {"custom_model_data":6002}, "model":"armband/blue_armband"},
         {"predicate": {"custom_model_data":6003}, "model":"armband/lime_armband"},
         {"predicate": {"custom_model_data":6004}, "model":"armband/white_armband"},
-        {"predicate": {"custom_model_data":6005}, "model":"armband/red_cross_armband"}
+        {"predicate": {"custom_model_data":6005}, "model":"armband/blue_cross_armband"}
     ]
 }
