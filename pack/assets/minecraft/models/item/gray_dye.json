@@ -13,6 +13,16 @@
          {"predicate": {"custom_model_data":7}, "model":"garapon/garapon_red_ball"},
          {"predicate": {"custom_model_data":8}, "model":"garapon/garapon_white_ball"},
          {"predicate": {"custom_model_data":9}, "model":"item/sparkles/sparkles"},
-         {"predicate": {"custom_model_data":10}, "model":"item/sparkles/sparkles_lit"}
+         {"predicate": {"custom_model_data":10}, "model":"item/sparkles/sparkles_lit"},
+         {"predicate": {"custom_model_data":11}, "model":"item/yoyo/blue_yoyo"},
+         {"predicate": {"custom_model_data":12}, "model":"item/yoyo/cyan_yoyo"},
+         {"predicate": {"custom_model_data":13}, "model":"item/yoyo/green_yoyo"},
+         {"predicate": {"custom_model_data":14}, "model":"item/yoyo/lime_yoyo"},
+         {"predicate": {"custom_model_data":15}, "model":"item/yoyo/magenta_yoyo"},
+         {"predicate": {"custom_model_data":16}, "model":"item/yoyo/orange_yoyo"},
+         {"predicate": {"custom_model_data":17}, "model":"item/yoyo/purple_yoyo"},
+         {"predicate": {"custom_model_data":18}, "model":"item/yoyo/red_yoyo"},
+         {"predicate": {"custom_model_data":19}, "model":"item/yoyo/white_yoyo"},
+         {"predicate": {"custom_model_data":20}, "model":"item/yoyo/yellow_yoyo"}
     ]
 }
