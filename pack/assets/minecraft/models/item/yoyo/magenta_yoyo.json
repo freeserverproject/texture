@@ -163,23 +163,66 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [65, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [65, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [-156, -2, -179],
+			"translation": [1.5, 6.25, 1.25],
+			"scale": [1.38, 1.38, 1.38]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-156, -2, -179],
+			"translation": [1.5, 6.25, 1.25],
+			"scale": [1.38, 1.38, 1.38]
+		},
+		"ground": {
+			"translation": [0, 9.75, 0],
+			"scale": [1.38867, 1.38867, 1.38867]
+		},
+		"gui": {
+			"rotation": [-32.15, -35.97, -46.94],
+			"translation": [3.25, 3.75, 0],
+			"scale": [1.51953, 1.51953, 1.51953]
+		},
+		"head": {
+			"rotation": [-156, -2, -179],
+			"translation": [0, -6.75, -7.5],
+			"scale": [1.38, 1.38, 1.38]
+		},
+		"fixed": {
+			"rotation": [0, 0, 45],
+			"translation": [-3.5, 3.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
 			"origin": [0, 16, 0],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "group",
 			"origin": [0.0175, 0, -0.0175],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [7, 8, 9, 10]
 		},
 		{
 			"name": "group",
 			"origin": [0.0175, 0, -0.0175],
 			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
 			"children": [11]
 		}
 	]
