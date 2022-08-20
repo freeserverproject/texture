@@ -1,7 +1,11 @@
 {
 	"pack":{
 		"pack_format": 6,
+<<<<<<< HEAD
 		"pack_version": "v1.17.6-beta1",
+=======
+		"pack_version": "v1.17.5",
+>>>>>>> 8da722d46624db44338b7bcf1561cb376ff3de36
 		"description": "F-Tex %pack_version% §c夏祭り§eアップデート"
 	}
 }
