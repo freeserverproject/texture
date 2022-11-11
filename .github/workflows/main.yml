@@ -27,6 +27,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '16.x'
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2.2.2
       - name: install dependencies(pnpm)
         run: |
           pnpm install --frozen-lockfile
