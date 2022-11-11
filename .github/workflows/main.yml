@@ -1,6 +1,6 @@
 name: new release
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
 
   # Allows you to run this workflow manually from the Actions tab
