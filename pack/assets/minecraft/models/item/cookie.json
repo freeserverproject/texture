@@ -15,6 +15,7 @@
     {"predicate": {"custom_model_data":8}, "model":"foods/cut_fruits/melon"},
     {"predicate": {"custom_model_data":9}, "model":"foods/cut_fruits/pineapple"},
     {"predicate": {"custom_model_data":10}, "model":"foods/pumpkin_candy"},
-    {"predicate": {"custom_model_data":11}, "model":"foods/jellyfish/water_jellyfish"}
+    {"predicate": {"custom_model_data":11}, "model":"foods/jellyfish/water_jellyfish"},
+    {"predicate": {"custom_model_data":12}, "model":"foods/seafoods/uni"}
   ]
 }
