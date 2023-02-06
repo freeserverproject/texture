@@ -2,6 +2,6 @@
 	"__name": "レッドストーンピッケル",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "tools/redstone_pickaxe"
+		"layer0": "item/tools/redstone_pickaxe"
 	}
 }

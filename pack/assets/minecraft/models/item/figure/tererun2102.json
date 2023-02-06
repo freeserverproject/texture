@@ -2,7 +2,7 @@
 	"__name": "tererunのフィギュア(2021年2月バージョン)",
 	"parent": "minecraft:item/figure/figure_alex",
 	"textures": {
-		"0": "skins/tererun2102",
-		"particle": "skins/tererun2102"
+		"0": "item/skins/tererun2102",
+		"particle": "item/skins/tererun2102"
 	}
 }

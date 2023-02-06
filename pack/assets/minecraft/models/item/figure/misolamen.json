@@ -2,7 +2,7 @@
 	"__name": "misolamenのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/misolamen",
-		"particle": "skins/misolamen"
+		"0": "item/skins/misolamen",
+		"particle": "item/skins/misolamen"
 	}
 }

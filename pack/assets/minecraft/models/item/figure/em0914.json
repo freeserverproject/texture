@@ -2,7 +2,7 @@
 	"__name": "em0914のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/em0914",
-		"particle": "skins/em0914"
+		"0": "item/skins/em0914",
+		"particle": "item/skins/em0914"
 	}
 }

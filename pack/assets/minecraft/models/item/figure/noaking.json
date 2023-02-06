@@ -2,7 +2,7 @@
 	"__name": "noakingのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/noaking",
-		"particle": "skins/noaking"
+		"0": "item/skins/noaking",
+		"particle": "item/skins/noaking"
 	}
 }

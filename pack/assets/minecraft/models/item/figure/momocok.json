@@ -2,7 +2,7 @@
 	"__name": "momocokのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/momocok",
-		"particle": "skins/momocok"
+		"0": "item/skins/momocok",
+		"particle": "item/skins/momocok"
 	}
 }

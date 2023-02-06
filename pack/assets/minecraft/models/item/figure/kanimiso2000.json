@@ -2,7 +2,7 @@
 	"__name": "kanimiso2000のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/kanimiso2000",
-		"particle": "skins/kanimiso2000"
+		"0": "item/skins/kanimiso2000",
+		"particle": "item/skins/kanimiso2000"
 	}
 }

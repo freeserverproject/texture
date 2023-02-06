@@ -2,7 +2,7 @@
 	"__name": "taniyan18のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/taniyan18",
-		"particle": "skins/taniyan18"
+		"0": "item/skins/taniyan18",
+		"particle": "item/skins/taniyan18"
 	}
 }
