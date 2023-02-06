@@ -1,0 +1,11 @@
+{
+	"__name": "フグ",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/pufferfish"
+    },
+    "overrides":[
+         {"predicate": {"custom_model_data":1}, "model":"foods/jellyfish/flower_umbrella_jellyfish"},
+         {"predicate": {"custom_model_data":2}, "model":"foods/jellyfish/beni_jellyfish"}
+     ]
+}
