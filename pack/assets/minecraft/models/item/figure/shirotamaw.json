@@ -2,7 +2,7 @@
 	"__name": "shirotamagoのフィギュア(冬バージョン)",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/shirotamagowi",
-		"particle": "skins/shirotamagowi"
+		"0": "item/skins/shirotamagowi",
+		"particle": "item/skins/shirotamagowi"
 	}
 }

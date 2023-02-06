@@ -1,7 +1,7 @@
 {
 	"__name": "焼きなす",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "foods/yakinasu"
-    }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/foods/yakinasu"
+	}
 }

@@ -3,7 +3,7 @@
 	"__comment": "俺",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/tsutoringo",
-		"particle": "skins/tsutoringo"
+		"0": "item/skins/tsutoringo",
+		"particle": "item/skins/tsutoringo"
 	}
 }

@@ -2,7 +2,7 @@
 	"__name": "nakatai_0322のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/nakatai_0322",
-		"particle": "skins/nakatai_0322"
+		"0": "item/skins/nakatai_0322",
+		"particle": "item/skins/nakatai_0322"
 	}
 }

@@ -1,7 +1,7 @@
 {
 	"__name": "生地",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "foods/material"
-    }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/foods/material"
+	}
 }

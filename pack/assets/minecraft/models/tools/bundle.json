@@ -2,6 +2,6 @@
 	"__name": "アイテムバンドル",
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "tools/bundle"
+		"layer0": "item/tools/bundle"
 	}
 }

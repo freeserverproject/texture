@@ -2,7 +2,7 @@
 	"__name": "nikuzukiのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/nikuzuki",
-		"particle": "skins/nikuzuki"
+		"0": "item/skins/nikuzuki",
+		"particle": "item/skins/nikuzuki"
 	}
 }

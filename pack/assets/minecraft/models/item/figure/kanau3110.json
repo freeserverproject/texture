@@ -2,7 +2,7 @@
 	"__name": "kanau3110のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/kanau3110",
-		"particle": "skins/kanau3110"
+		"0": "item/skins/kanau3110",
+		"particle": "item/skins/kanau3110"
 	}
 }

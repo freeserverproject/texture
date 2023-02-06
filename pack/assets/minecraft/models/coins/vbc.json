@@ -2,176 +2,808 @@
 	"__name": "投票コイン",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "coins/fscoin_silver",
-		"particle": "coins/fscoin_silver"
+		"2": "item/coins/fscoin_silver",
+		"particle": "item/coins/fscoin_silver"
 	},
 	"elements": [
 		{
 			"name": "fscoin_bronze_0",
-			"from": [6, 0, 1],
-			"to": [10, 1, 15],
+			"from": [
+				6,
+				0,
+				1
+			],
+			"to": [
+				10,
+				1,
+				15
+			],
 			"faces": {
-				"north": {"uv": [10, 1, 6, 2], "texture": "#2"},
-				"east": {"uv": [9, 1, 10, 15], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [6, 14, 10, 15], "texture": "#2"},
-				"west": {"uv": [6, 1, 7, 15], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [6, 1, 10, 15], "texture": "#2"},
-				"down": {"uv": [6, 15, 10, 1], "texture": "#2"}
+				"north": {
+					"uv": [
+						10,
+						1,
+						6,
+						2
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						9,
+						1,
+						10,
+						15
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						6,
+						14,
+						10,
+						15
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						6,
+						1,
+						7,
+						15
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						6,
+						1,
+						10,
+						15
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						6,
+						15,
+						10,
+						1
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_1",
-			"from": [4, 0, 2],
-			"to": [6, 1, 14],
+			"from": [
+				4,
+				0,
+				2
+			],
+			"to": [
+				6,
+				1,
+				14
+			],
 			"faces": {
-				"north": {"uv": [6, 2, 4, 3], "texture": "#2"},
-				"east": {"uv": [5, 2, 6, 14], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [4, 13, 6, 14], "texture": "#2"},
-				"west": {"uv": [4, 2, 5, 14], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [4, 2, 6, 14], "texture": "#2"},
-				"down": {"uv": [4, 14, 6, 2], "texture": "#2"}
+				"north": {
+					"uv": [
+						6,
+						2,
+						4,
+						3
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						5,
+						2,
+						6,
+						14
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						4,
+						13,
+						6,
+						14
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						4,
+						2,
+						5,
+						14
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						4,
+						2,
+						6,
+						14
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						4,
+						14,
+						6,
+						2
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_2",
-			"from": [10, 0, 2],
-			"to": [12, 1, 14],
+			"from": [
+				10,
+				0,
+				2
+			],
+			"to": [
+				12,
+				1,
+				14
+			],
 			"faces": {
-				"north": {"uv": [12, 2, 10, 3], "texture": "#2"},
-				"east": {"uv": [11, 2, 12, 14], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [10, 13, 12, 14], "texture": "#2"},
-				"west": {"uv": [10, 2, 11, 14], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [10, 2, 12, 14], "texture": "#2"},
-				"down": {"uv": [10, 14, 12, 2], "texture": "#2"}
+				"north": {
+					"uv": [
+						12,
+						2,
+						10,
+						3
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						11,
+						2,
+						12,
+						14
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						10,
+						13,
+						12,
+						14
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						10,
+						2,
+						11,
+						14
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						10,
+						2,
+						12,
+						14
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						10,
+						14,
+						12,
+						2
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_3",
-			"from": [3, 0, 3],
-			"to": [4, 1, 13],
+			"from": [
+				3,
+				0,
+				3
+			],
+			"to": [
+				4,
+				1,
+				13
+			],
 			"faces": {
-				"north": {"uv": [4, 3, 3, 4], "texture": "#2"},
-				"east": {"uv": [3, 3, 4, 13], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [3, 12, 4, 13], "texture": "#2"},
-				"west": {"uv": [3, 3, 4, 13], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [3, 3, 4, 13], "texture": "#2"},
-				"down": {"uv": [3, 13, 4, 3], "texture": "#2"}
+				"north": {
+					"uv": [
+						4,
+						3,
+						3,
+						4
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						3,
+						3,
+						4,
+						13
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						3,
+						12,
+						4,
+						13
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						3,
+						3,
+						4,
+						13
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						3,
+						3,
+						4,
+						13
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						3,
+						13,
+						4,
+						3
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_4",
-			"from": [12, 0, 3],
-			"to": [13, 1, 13],
+			"from": [
+				12,
+				0,
+				3
+			],
+			"to": [
+				13,
+				1,
+				13
+			],
 			"faces": {
-				"north": {"uv": [13, 3, 12, 4], "texture": "#2"},
-				"east": {"uv": [12, 3, 13, 13], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [12, 12, 13, 13], "texture": "#2"},
-				"west": {"uv": [12, 3, 13, 13], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [12, 3, 13, 13], "texture": "#2"},
-				"down": {"uv": [12, 13, 13, 3], "texture": "#2"}
+				"north": {
+					"uv": [
+						13,
+						3,
+						12,
+						4
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						12,
+						3,
+						13,
+						13
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						12,
+						12,
+						13,
+						13
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						12,
+						3,
+						13,
+						13
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						12,
+						3,
+						13,
+						13
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						12,
+						13,
+						13,
+						3
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_5",
-			"from": [2, 0, 4],
-			"to": [3, 1, 12],
+			"from": [
+				2,
+				0,
+				4
+			],
+			"to": [
+				3,
+				1,
+				12
+			],
 			"faces": {
-				"north": {"uv": [3, 4, 2, 5], "texture": "#2"},
-				"east": {"uv": [2, 4, 3, 12], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [2, 11, 3, 12], "texture": "#2"},
-				"west": {"uv": [2, 4, 3, 12], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [2, 4, 3, 12], "texture": "#2"},
-				"down": {"uv": [2, 12, 3, 4], "texture": "#2"}
+				"north": {
+					"uv": [
+						3,
+						4,
+						2,
+						5
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						2,
+						4,
+						3,
+						12
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						2,
+						11,
+						3,
+						12
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						2,
+						4,
+						3,
+						12
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						2,
+						4,
+						3,
+						12
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						2,
+						12,
+						3,
+						4
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_6",
-			"from": [13, 0, 4],
-			"to": [14, 1, 12],
+			"from": [
+				13,
+				0,
+				4
+			],
+			"to": [
+				14,
+				1,
+				12
+			],
 			"faces": {
-				"north": {"uv": [14, 4, 13, 5], "texture": "#2"},
-				"east": {"uv": [13, 4, 14, 12], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [13, 11, 14, 12], "texture": "#2"},
-				"west": {"uv": [13, 4, 14, 12], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [13, 4, 14, 12], "texture": "#2"},
-				"down": {"uv": [13, 12, 14, 4], "texture": "#2"}
+				"north": {
+					"uv": [
+						14,
+						4,
+						13,
+						5
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						13,
+						4,
+						14,
+						12
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						13,
+						11,
+						14,
+						12
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						13,
+						4,
+						14,
+						12
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						13,
+						4,
+						14,
+						12
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						13,
+						12,
+						14,
+						4
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_7",
-			"from": [1, 0, 6],
-			"to": [2, 1, 10],
+			"from": [
+				1,
+				0,
+				6
+			],
+			"to": [
+				2,
+				1,
+				10
+			],
 			"faces": {
-				"north": {"uv": [2, 6, 1, 7], "texture": "#2"},
-				"east": {"uv": [1, 6, 2, 10], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [1, 9, 2, 10], "texture": "#2"},
-				"west": {"uv": [1, 6, 2, 10], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [1, 6, 2, 10], "texture": "#2"},
-				"down": {"uv": [1, 10, 2, 6], "texture": "#2"}
+				"north": {
+					"uv": [
+						2,
+						6,
+						1,
+						7
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						1,
+						6,
+						2,
+						10
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						1,
+						9,
+						2,
+						10
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						1,
+						6,
+						2,
+						10
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						1,
+						6,
+						2,
+						10
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						1,
+						10,
+						2,
+						6
+					],
+					"texture": "#2"
+				}
 			}
 		},
 		{
 			"name": "fscoin_bronze_8",
-			"from": [14, 0, 6],
-			"to": [15, 1, 10],
+			"from": [
+				14,
+				0,
+				6
+			],
+			"to": [
+				15,
+				1,
+				10
+			],
 			"faces": {
-				"north": {"uv": [15, 6, 14, 7], "texture": "#2"},
-				"east": {"uv": [14, 6, 15, 10], "rotation": 90, "texture": "#2"},
-				"south": {"uv": [14, 9, 15, 10], "texture": "#2"},
-				"west": {"uv": [14, 6, 15, 10], "rotation": 270, "texture": "#2"},
-				"up": {"uv": [14, 6, 15, 10], "texture": "#2"},
-				"down": {"uv": [14, 10, 15, 6], "texture": "#2"}
+				"north": {
+					"uv": [
+						15,
+						6,
+						14,
+						7
+					],
+					"texture": "#2"
+				},
+				"east": {
+					"uv": [
+						14,
+						6,
+						15,
+						10
+					],
+					"rotation": 90,
+					"texture": "#2"
+				},
+				"south": {
+					"uv": [
+						14,
+						9,
+						15,
+						10
+					],
+					"texture": "#2"
+				},
+				"west": {
+					"uv": [
+						14,
+						6,
+						15,
+						10
+					],
+					"rotation": 270,
+					"texture": "#2"
+				},
+				"up": {
+					"uv": [
+						14,
+						6,
+						15,
+						10
+					],
+					"texture": "#2"
+				},
+				"down": {
+					"uv": [
+						14,
+						10,
+						15,
+						6
+					],
+					"texture": "#2"
+				}
 			}
 		}
 	],
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [81, 0, 6],
-			"translation": [-0.75, 1.5, 2.5],
-			"scale": [0.26, 0.26, 0.26]
+			"rotation": [
+				81,
+				0,
+				6
+			],
+			"translation": [
+				-0.75,
+				1.5,
+				2.5
+			],
+			"scale": [
+				0.26,
+				0.26,
+				0.26
+			]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [81, 0, 6],
-			"translation": [-0.75, 1.5, 2.5],
-			"scale": [0.26, 0.26, 0.26]
+			"rotation": [
+				81,
+				0,
+				6
+			],
+			"translation": [
+				-0.75,
+				1.5,
+				2.5
+			],
+			"scale": [
+				0.26,
+				0.26,
+				0.26
+			]
 		},
 		"firstperson_righthand": {
-			"rotation": [81, 0, 6],
-			"translation": [1.5, 2.5, 3.75],
-			"scale": [0.45, 0.45, 0.45]
+			"rotation": [
+				81,
+				0,
+				6
+			],
+			"translation": [
+				1.5,
+				2.5,
+				3.75
+			],
+			"scale": [
+				0.45,
+				0.45,
+				0.45
+			]
 		},
 		"firstperson_lefthand": {
-			"rotation": [81, 0, 6],
-			"translation": [1.5, 2.5, 3.75],
-			"scale": [0.45, 0.45, 0.45]
+			"rotation": [
+				81,
+				0,
+				6
+			],
+			"translation": [
+				1.5,
+				2.5,
+				3.75
+			],
+			"scale": [
+				0.45,
+				0.45,
+				0.45
+			]
 		},
 		"ground": {
-			"rotation": [90, 0, 0],
-			"translation": [0.25, 8.5, 5],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [
+				90,
+				0,
+				0
+			],
+			"translation": [
+				0.25,
+				8.5,
+				5
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
 		},
 		"gui": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 0, 17.5],
-			"scale": [1.06, 1.06, 1.06]
+			"rotation": [
+				90,
+				0,
+				0
+			],
+			"translation": [
+				0,
+				0,
+				17.5
+			],
+			"scale": [
+				1.06,
+				1.06,
+				1.06
+			]
 		},
 		"head": {
-			"rotation": [-90, -180, 0],
-			"translation": [0.25, 8.5, -10.25],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [
+				-90,
+				-180,
+				0
+			],
+			"translation": [
+				0.25,
+				8.5,
+				-10.25
+			],
+			"scale": [
+				0.5,
+				0.5,
+				0.5
+			]
 		},
 		"fixed": {
-			"rotation": [-90, -180, 0],
-			"translation": [0, 0, -11],
-			"scale": [1.28, 1.28, 1.28]
+			"rotation": [
+				-90,
+				-180,
+				0
+			],
+			"translation": [
+				0,
+				0,
+				-11
+			],
+			"scale": [
+				1.28,
+				1.28,
+				1.28
+			]
 		}
 	},
 	"groups": [
 		{
 			"name": "fscoin_silver",
-			"origin": [8, 8, 8],
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+			"origin": [
+				8,
+				8,
+				8
+			],
+			"children": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8
+			]
 		}
 	]
 }

@@ -2,6 +2,6 @@
 	"__name": "レッドストーンシャベル",
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "tools/redstone_shovel"
+		"layer0": "item/tools/redstone_shovel"
 	}
 }

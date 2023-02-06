@@ -2,7 +2,7 @@
 	"__name": "ganma_のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/ganma_",
-		"particle": "skins/ganma_"
+		"0": "item/skins/ganma_",
+		"particle": "item/skins/ganma_"
 	}
 }
