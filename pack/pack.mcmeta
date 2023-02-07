@@ -1,7 +1,7 @@
 {
 	"pack":{
 		"pack_format": 12,
-		"pack_version": "v1.19.0",
+		"pack_version": "v1.19.1",
 		"description": "F-Tex %pack_version% #113 1.19.3で起こる不具合の修正"
 	}
 }
