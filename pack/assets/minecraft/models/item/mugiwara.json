@@ -3,8 +3,8 @@
 	"__comment": "麦わらの〜",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/entity/villager/profession/farmer",
-		"particle": "item/entity/villager/profession/farmer"
+		"0": "entity/villager/profession/farmer",
+		"particle": "entity/villager/profession/farmer"
 	},
 	"elements": [
 		{

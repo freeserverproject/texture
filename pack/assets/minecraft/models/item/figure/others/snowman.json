@@ -5,7 +5,7 @@
 		"1": "block/white_concrete",
 		"3": "block/gold_block",
 		"particle": "block/white_concrete",
-		"1_0": "item/entity/villager/profession/farmer",
+		"1_0": "entity/villager/profession/farmer",
 		"layer0": "item/stick"
 	},
 	"elements": [
