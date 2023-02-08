@@ -2,7 +2,7 @@
 	"__name": "syubariumのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/syubarium",
-		"particle": "skins/syubarium"
+		"0": "item/skins/syubarium",
+		"particle": "item/skins/syubarium"
 	}
 }

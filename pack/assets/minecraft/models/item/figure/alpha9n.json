@@ -2,7 +2,7 @@
 	"__name": "Alpha9nのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/alpha9n",
-		"particle": "skins/alpha9n"
+		"0": "item/skins/alpha9n",
+		"particle": "item/skins/alpha9n"
 	}
 }

@@ -2,7 +2,7 @@
 	"__name": "tererunのフィギュア",
 	"parent": "minecraft:item/figure/figure_alex",
 	"textures": {
-		"0": "skins/tererun",
-		"particle": "skins/tererun"
+		"0": "item/skins/tererun",
+		"particle": "item/skins/tererun"
 	}
 }

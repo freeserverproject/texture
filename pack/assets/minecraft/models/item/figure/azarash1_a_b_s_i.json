@@ -2,7 +2,7 @@
 	"__name": "azarash1_a_b_s_iのフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/azarash1_a_b_s_i",
-		"particle": "skins/azarash1_a_b_s_i"
+		"0": "item/skins/azarash1_a_b_s_i",
+		"particle": "item/skins/azarash1_a_b_s_i"
 	}
 }

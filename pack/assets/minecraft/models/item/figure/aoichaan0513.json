@@ -2,7 +2,7 @@
 	"__name": "aoichaan0513のフィギュア",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/aoichaan0513",
-		"particle": "skins/aoichaan0513"
+		"0": "item/skins/aoichaan0513",
+		"particle": "item/skins/aoichaan0513"
 	}
 }

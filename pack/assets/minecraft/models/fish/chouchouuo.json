@@ -1,7 +1,7 @@
 {
 	"__name": "チョウチョウウオ",
-  "parent": "item/generated",
-  "textures": {
-      "layer0": "fish/chouchouuo"
-  }
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/fish/chouchouuo"
+	}
 }

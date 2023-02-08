@@ -2,7 +2,7 @@
 	"__name": "???????",
 	"parent": "minecraft:item/figure/figure",
 	"textures": {
-		"0": "skins/null",
-		"particle": "skins/null"
+		"0": "item/skins/null",
+		"particle": "item/skins/null"
 	}
 }
