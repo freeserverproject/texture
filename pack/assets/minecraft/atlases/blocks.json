@@ -1,0 +1,12 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "entity/fox/snow_fox_sleep"
+        },
+        {
+            "type": "single",
+            "resource": "entity/villager/profession/farmer"
+        }
+    ]
+}
