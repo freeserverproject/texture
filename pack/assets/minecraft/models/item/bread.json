@@ -6,6 +6,7 @@
   },
     "overrides":[
         {"predicate": {"custom_model_data":1}, "model":"foods/big_burger"},
-        {"predicate": {"custom_model_data":2}, "model":"foods/corn"}
+        {"predicate": {"custom_model_data":2}, "model":"foods/corn"},
+        {"predicate": {"custom_model_data":3}, "model":"foods/maple8192_pizza"}
      ]
 }
